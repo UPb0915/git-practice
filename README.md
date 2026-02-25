@@ -4,8 +4,6 @@
 
 ## third
 
-<<<<<<< HEAD
-## feedback
-=======
-### feedback lah
->>>>>>> feedback
+## feedback lah
+
+## cool
